@@ -207,7 +207,7 @@ popd
 %{_prefix}/lib/sbcl/sbcl.core
 
 %changelog
-* Wed Mar 13 2024 Daniil Archangelsky <kiky.tokamuro@yandex.ru> - 2.4.1-1 
+* Wed Mar 13 2024 Daniil Arkhangelsky <kiky.tokamuro@yandex.ru> - 2.4.1-1 
 - Bump to 2.4.1
 
 * Thu Dec 28 2023 Stephen Hassard <steve@hassard.net> - 2.4.0-1
